@@ -3,8 +3,6 @@ import pygame
 from moveable_entity import MoveableEntity
 
 
-
-
 class Player(MoveableEntity):
 
     def __init__(self, x, y, width, height, speed):
