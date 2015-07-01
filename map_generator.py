@@ -1,5 +1,6 @@
-import pygame
 from random import randint, random
+
+import pygame
 
 # in progress map generator, not yet functional
 

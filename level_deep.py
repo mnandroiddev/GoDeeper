@@ -1,10 +1,9 @@
-from level import Map
-import math
 import pygame
 from pygame import transform
 from transform import smoothscale
+
+from level import Map
 from wall import Wall
-from random import randint
 
 
 class ZoomMap(Map):

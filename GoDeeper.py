@@ -1,10 +1,8 @@
-import math
-import os
 import pygame
-from random import randint
 from pygame import time
-from player import Player
+
 from level_deep import ZoomMap
+from player import Player
 
 
 pygame.init()

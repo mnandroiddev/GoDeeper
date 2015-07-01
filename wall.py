@@ -1,5 +1,7 @@
-from entity import Entity
 import pygame
+
+from entity import Entity
+
 
 class Wall(Entity):
     def __init__ (self, x, y, width, height,):

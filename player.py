@@ -1,9 +1,9 @@
-import math
-from moveable_entity import MoveableEntity
 import pygame
-from random import randint
-import time
-import pdb
+
+from moveable_entity import MoveableEntity
+
+
+
 
 class Player(MoveableEntity):
 
